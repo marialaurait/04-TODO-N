@@ -1,6 +1,6 @@
-# Webpack Starter
+# 04-TODO-N
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Proyecto de gestión de lista de tareas (TODO) 
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
